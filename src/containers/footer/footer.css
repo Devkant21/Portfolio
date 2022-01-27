@@ -1,0 +1,8 @@
+.dev__footer section__padding{
+    width: 100%;
+    
+    display: flex;
+    flex-driection: column;
+    background: var(--color-footer);
+
+}
